@@ -73,11 +73,10 @@
 
 ---
 
-<details>
+## 🧪 Featured Projects
 
-<summary> ## 🧪 Featured Projects </summary>
+### 🧠 Neutron Detection ML [![Neutron Detection ML Repo](https://img.shields.io/badge/github-ML_Neutron_Detector-blue?logo=github)](https://github.com/kiriligha/neutron_detector)
 
-### 🧠 Neutron Detection ML
 
 ML pipeline для классификации сигналов детектора нейтронов и гамма-квантов.  
 
@@ -89,7 +88,7 @@ ML pipeline for neutron and gamma signal classification.
 
 ---
 
-### 🤖 Kaggle Bot Detection
+### 🤖 Kaggle Bot Detection [![Kaggle Bot Detection Repo](https://img.shields.io/badge/github-Bot_Or_Not-blue?logo=github)](https://github.com/kiriligha/BotOrNot)
 
 Решение Kaggle-соревнования по определению ботов в диалогах.  
 
@@ -99,7 +98,7 @@ Kaggle competition solution for bot detection in dialogues.
 
 ---
 
-### ⚙️ TCP Server
+### ⚙️ TCP Server [![TCP Server Repo](https://img.shields.io/badge/github-TCP_Server-blue?logo=github)](https://github.com/kiriligha/tsp_server)
 
 TCP-сервер с поддержкой базовых команд и TTL.  
 
@@ -111,7 +110,7 @@ TCP server with basic command support and TTL.
 
 ---
 
-### 🚀 Data Dial
+### 🚀 Data Dial ![DataDial](https://img.shields.io/badge/DataDial-purple?logo=DMM)
 
 Работа над ML-задачами в стартапе Data Dial. 
 
@@ -129,12 +128,10 @@ Working on ML tasks in the Data Dial startup.
 
 **Stack:** Python, Pandas, NumPy, Matplotlib, CatBoost, XGBoost, PyTorch, Transformers
 
-</details>
-
 ---
 
 ## 📫 Contacts
 
 - 📧 Email: kiriligha.2006@gmail.com [![Email](https://img.shields.io/badge/Email-kiriligha.2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kiriligha.2006@gmail.com)
 
-- 💬 Telegram: https://t.me/kiriligha [![Telegram](https://img.shields.io/badge/Telegram-your_username-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kiriligha)
+- 💬 Telegram: https://t.me/kiriligha [![Telegram](https://img.shields.io/badge/Telegram-kiriligha-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kiriligha)
