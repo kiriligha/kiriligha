@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kiriligha/kiriligha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Кирилл Макаров | Kirill Makarov
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Scientist;Python+Developer;Building+ML+Systems&center=true&width=500&height=45">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **ML Engineer | Data Science | Backend**  
+
+📍 Moscow / Remote  
+
+🚀 Open to internships & ML roles  
+
+</div>
