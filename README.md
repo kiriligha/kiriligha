@@ -34,8 +34,6 @@
 
 ## ⚡ Tech Stack
 
-<div align="center">
-
 ### 💻 Core
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
@@ -47,8 +45,6 @@
 ### ⚙️ Backend / Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -77,7 +73,9 @@
 
 ---
 
-## 🧪 Featured Projects
+<details>
+
+<summary> ## 🧪 Featured Projects </summary>
 
 ### 🧠 Neutron Detection ML
 
@@ -130,6 +128,8 @@ Working on ML tasks in the Data Dial startup.
 - AI Assistant Configurator (generation of system instructions) 
 
 **Stack:** Python, Pandas, NumPy, Matplotlib, CatBoost, XGBoost, PyTorch, Transformers
+
+</details>
 
 ---
 
