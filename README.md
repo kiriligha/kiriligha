@@ -116,14 +116,14 @@ TCP server with basic command support and TTL.
 
 - Реализация Agent RAG Microservice
 - ML модель по историческому прогнозу спроса маркетплейсов
-- Code Reviwer
+- Code Reviewer
 - Конфигуратор ассистентов (генерация системных инструкций) 
 
 Working on ML tasks in the Data Dial startup.
 
 - Realisation of Agent RAG Microservice
 - ML model marketplace forecasting demand
-- Code Reviwer
+- Code Reviewer
 - AI Assistant Configurator (generation of system instructions) 
 
 **Stack:** Python, Pandas, NumPy, Matplotlib, CatBoost, XGBoost, PyTorch, Transformers
