@@ -110,7 +110,7 @@ TCP server with basic command support and TTL.
 
 ---
 
-### 🚀 Data Dial ![DataDial](https://img.shields.io/badge/DataDial-purple?logo=DMM)
+### 🚀 Data Dial [![DataDial](https://img.shields.io/badge/DataDial-purple?logo=DMM)](https://datadial.ru/)
 
 Работа над ML-задачами в стартапе Data Dial. 
 
