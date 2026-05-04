@@ -2,7 +2,7 @@
 
 # Кирилл Макаров | Kirill Makarov
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Scientist;Python+Developer;Building+ML+Systems&center=true&width=500&height=45&color=red&color=FFFFFF">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Scientist;Python+Developer;Building+ML+Systems&center=true&width=500&height=45&color=red&color=9EF5F7FF">
 
 💻 **ML Engineer | Data Science | Backend**  
 
